@@ -1,8 +1,8 @@
-for (let i = 1; i < 10; i++){
-   if (i === 6) {
-/*       break;
- */      continue;
-}
+for (let i = 1; i < 10; i++) {
+  if (i === 6) {
+    /*       break;
+     */ continue;
+  }
 
-   console.log(i);
+  console.log(i);
 }
